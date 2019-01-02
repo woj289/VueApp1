@@ -8,7 +8,7 @@ Vue.config.productionTip = false;
 new Vue({
   el: "#app",
   data: {
-    name: "Wojtek",
+    name: "Marcin",
     myColor: {
       color: "#fab"
     }
